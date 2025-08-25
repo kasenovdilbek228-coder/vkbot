@@ -1,0 +1,25 @@
+{
+    "636163931": {
+        "warns": 2,
+        "mute_until": 0,
+        "admin_level": 1,
+        "server_id": 30,
+        "nick": "Eric_Winter",
+        "rank": "Главный админ"
+    },
+    "635006064": {
+        "warns": 0,
+        "mute_until": 1756055886,
+        "nick": "Eric_Winter",
+        "rank": "",
+        "server_id": 0,
+        "mute_warn_count": 73
+    },
+    "575648152": {
+        "warns": 0,
+        "mute_until": 1756048569,
+        "nick": "Danny_Neats",
+        "rank": "Заместитель лидера ЛСА",
+        "server_id": 9
+    }
+}

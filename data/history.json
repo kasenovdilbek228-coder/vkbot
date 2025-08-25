@@ -1,0 +1,118 @@
+{
+    "0": {
+        "target_id": null,
+        "peer_id": null,
+        "type": "ban",
+        "reason": null,
+        "by_id": null,
+        "time": 1756044423,
+        "resolved": false,
+        "resolved_time": null
+    },
+    "1": {
+        "target_id": 635006064,
+        "peer_id": 2000000002,
+        "type": "ban",
+        "reason": "test",
+        "by_id": 636163931,
+        "time": 1756044548,
+        "resolved": false,
+        "resolved_time": null
+    },
+    "2": {
+        "target_id": 635006064,
+        "peer_id": 2000000002,
+        "type": "kick",
+        "reason": {
+            "reason": "test",
+            "timestamp": 1756046511,
+            "resolved": true
+        },
+        "by_id": 636163931,
+        "time": 1756046511,
+        "resolved": false,
+        "resolved_time": null
+    },
+    "3": {
+        "target_id": 635006064,
+        "peer_id": 2000000002,
+        "type": "ban",
+        "reason": "снят",
+        "by_id": 636163931,
+        "time": 1756046570,
+        "resolved": false,
+        "resolved_time": null
+    },
+    "4": {
+        "target_id": 575648152,
+        "peer_id": 2000000002,
+        "type": "mute",
+        "reason": {
+            "reason": "Не указана",
+            "timestamp": 1756046611,
+            "duration": 0,
+            "resolved": false
+        },
+        "by_id": 636163931,
+        "time": 1756046611,
+        "resolved": false,
+        "resolved_time": null
+    },
+    "5": {
+        "target_id": 575648152,
+        "peer_id": 2000000002,
+        "type": "mute",
+        "reason": {
+            "reason": "test",
+            "timestamp": 1756046797,
+            "duration": 600,
+            "resolved": false
+        },
+        "by_id": 636163931,
+        "time": 1756046797,
+        "resolved": false,
+        "resolved_time": null
+    },
+    "2000000002": [
+        {
+            "time": 1756047748,
+            "by_id": 636163931,
+            "target_id": 575648152,
+            "type": "mute",
+            "reason": "test",
+            "resolved": false
+        },
+        {
+            "time": 1756047824,
+            "by_id": 636163931,
+            "target_id": 575648152,
+            "type": "mute",
+            "reason": "test",
+            "resolved": false
+        },
+        {
+            "time": 1756047880,
+            "by_id": 636163931,
+            "target_id": 575648152,
+            "type": "mute",
+            "reason": "test",
+            "resolved": false
+        },
+        {
+            "time": 1756048509,
+            "by_id": 636163931,
+            "target_id": 575648152,
+            "type": "mute",
+            "reason": "test",
+            "resolved": false
+        },
+        {
+            "time": 1756048686,
+            "by_id": 636163931,
+            "target_id": 635006064,
+            "type": "mute",
+            "reason": "test",
+            "resolved": false
+        }
+    ]
+}
